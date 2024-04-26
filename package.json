@@ -1,0 +1,59 @@
+{
+  "name": "upliance-assignment",
+  "version": "0.1.0",
+  "description": "Upliance assignment",
+  "author": {
+    "name": "Shubham",
+    "email": "s8982034020@gmail.com"
+  },
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.15.15",
+    "@react-spring/web": "^9.7.3",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "bootstrap": "^4.4.1",
+    "formik": "^2.1.4",
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.15",
+    "popper.js": "^1.16.1",
+    "react": "^16.13.1",
+    "react-bootstrap-sweetalert": "^5.1.9",
+    "react-dom": "^16.13.1",
+    "react-icons": "^3.10.0",
+    "react-native-base64": "0.0.2",
+    "react-quill": "^2.0.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^5.0.1",
+    "react-spring": "^9.7.3",
+    "react-toasts": "^3.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-nullish-coalescing-operator": "^7.18.6",
+    "@babel/plugin-proposal-optional-chaining": "^7.21.0"
+  }
+}
